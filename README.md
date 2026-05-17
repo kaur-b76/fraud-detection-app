@@ -1,4 +1,4 @@
-# Fraud Detection Inspector - Detailed Project Explanation
+# Fraud Detection App using Python and ML
 
 ## Introduction
 
